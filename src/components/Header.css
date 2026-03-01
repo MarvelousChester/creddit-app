@@ -1,0 +1,8 @@
+.header {
+  height: 100px;
+  flex-shrink: 0;
+}
+
+.header-title {
+  font-size: 2rem;
+}
